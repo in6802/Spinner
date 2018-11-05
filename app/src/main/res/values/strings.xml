@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Spinner</string>
+    <string name="buttonBack">Back</string>
+    <string name="Sub1">Sub1</string>
 </resources>
